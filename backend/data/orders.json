@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1004,
+    "items": [
+      {
+        "name": "Veg Burger",
+        "price": 120,
+        "quantity": 2,
+        "subtotal": 240
+      },
+      {
+        "name": "French Fries",
+        "price": 100,
+        "quantity": 1,
+        "subtotal": 100
+      },
+      {
+        "name": "Cold Coffee",
+        "price": 90,
+        "quantity": 2,
+        "subtotal": 180
+      }
+    ],
+    "total": 520,
+    "status": "Completed",
+    "createdAt": "2026-10-05T15:54:33.617Z"
+  },
+  {
+    "id": 1001,
+    "items": [
+      {
+        "name": "Veg Burger",
+        "price": 120,
+        "quantity": 2,
+        "subtotal": 240
+      },
+      {
+        "name": "French Fries",
+        "price": 100,
+        "quantity": 1,
+        "subtotal": 100
+      },
+      {
+        "name": "Cold Coffee",
+        "price": 90,
+        "quantity": 2,
+        "subtotal": 180
+      }
+    ],
+    "total": 520,
+    "status": "Completed",
+    "createdAt": "2026-10-05T18:30:00.000Z"
+  },
+  {
+    "id": 1002,
+    "items": [
+      {
+        "name": "Margherita Pizza",
+        "price": 250,
+        "quantity": 1,
+        "subtotal": 250
+      },
+      {
+        "name": "French Fries",
+        "price": 100,
+        "quantity": 1,
+        "subtotal": 100
+      }
+    ],
+    "total": 350,
+    "status": "Preparing",
+    "createdAt": "2026-10-05T19:45:00.000Z"
+  },
+  {
+    "id": 1003,
+    "items": [
+      {
+        "name": "Veg Burger",
+        "price": 120,
+        "quantity": 2,
+        "subtotal": 240
+      }
+    ],
+    "total": 240,
+    "status": "Pending",
+    "createdAt": "2026-10-05T20:10:00.000Z"
+  }
+]

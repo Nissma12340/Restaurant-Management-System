@@ -1,0 +1,38 @@
+[
+  {
+    "id": "item_1",
+    "name": "Veg Burger",
+    "category": "Fast Food",
+    "price": 120
+  },
+  {
+    "id": "item_2",
+    "name": "Chicken Burger",
+    "category": "Fast Food",
+    "price": 160
+  },
+  {
+    "id": "item_3",
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 250
+  },
+  {
+    "id": "item_4",
+    "name": "White Sauce Pasta",
+    "category": "Italian",
+    "price": 180
+  },
+  {
+    "id": "item_5",
+    "name": "French Fries",
+    "category": "Snacks",
+    "price": 100
+  },
+  {
+    "id": "item_6",
+    "name": "Cold Coffee",
+    "category": "Beverages",
+    "price": 90
+  }
+]
